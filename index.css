@@ -56,10 +56,15 @@ nav{
   height: 120px;
 }
 
-#intro, #skills, #projects{
+#intro, #skills, #projects, #footer{
   background-color: white;
   top: -100px;
   position: relative;
+}
+
+#footer{
+  background-color: transparent;
+  text-align: center;
 }
 
 .navbar-toggler{
