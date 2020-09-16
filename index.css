@@ -56,13 +56,7 @@ nav{
   height: 120px;
 }
 
-#intro{
-  background-color: white;
-  top: -100px;
-  position: relative;
-  
-}
-#skills{
+#intro, #skills, #projects{
   background-color: white;
   top: -100px;
   position: relative;
