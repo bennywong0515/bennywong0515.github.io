@@ -1,0 +1,70 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4rem;
+  background-color: #F0F2F5;
+}
+
+nav{
+  background-color: white;
+  
+}
+.navbar {
+	margin:0 !important;
+  padding: 2px !important;
+  padding-left: 5px !important;
+  padding-right: 10px !important;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background-color: #F0F2F5;
+  padding: 7px; 
+  padding-left: 15px;
+  width: 200px;
+  color: #A6A9AD;
+
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  text-align: center;
+  padding: 4px; 
+  width: 200px;
+  color: #000000;
+
+}
+
+#cover_propic{
+  text-align: center;
+  background-image: url( "./cover.jpg" );
+  min-height: 280px;
+}
+#propic{
+  top: 100px;
+  position: relative;
+  background-color: white;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+#name_bg{
+  background-color: white;
+  top: -100px;
+  position: relative;
+  z-index: -1;
+  height: 120px;
+}
+
+#intro{
+  background-color: white;
+  top: -100px;
+  position: relative;
+  
+}
+#skills{
+  background-color: white;
+  top: -100px;
+  position: relative;
+  
+}
