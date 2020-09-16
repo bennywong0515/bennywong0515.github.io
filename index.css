@@ -62,3 +62,6 @@ nav{
   position: relative;
 }
 
+.navbar-toggler{
+  border-radius: 25px;
+}
